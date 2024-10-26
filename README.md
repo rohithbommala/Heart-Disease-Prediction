@@ -1,1 +1,1 @@
-Image Classification analysis
+Image Classification Analysis
